@@ -1,0 +1,20 @@
+Windows Master 5.2 — final UI/performance patch
+
+Main fixes:
+1) Restored the native Windows title bar. Search/theme controls are now below it, so they cannot overlap minimize/maximize/close.
+2) Added a preferred minimum window size (1040x680) while keeping normal resize/maximize/fullscreen behavior.
+3) Uses logo.ico for native title bar/window/taskbar and logo.png inside the app/About.
+4) About dialog has a real primary button that opens https://anas-mohamed-tech.surge.sh.
+5) Navigation uses the native NavigationView pane toggle instead of a custom glyph.
+6) Home hardware polling stops when Home is not visible, reducing UI lag during navigation.
+7) Search has debounce + clear button.
+8) Dark/light palette was strengthened while preserving the existing visual direction.
+9) No duplicate Program.cs; the WinUI generated entry point remains the only entry point.
+
+Recommended installation:
+- Close Visual Studio.
+- Back up your current WindowsMaster_Native folder.
+- Extract this complete folder to a new WindowsMaster_Native_Final folder.
+- Open WindowsMaster.sln.
+- Build > Rebuild Solution.
+- Start Without Debugging (Ctrl+F5).
