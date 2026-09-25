@@ -1,92 +1,64 @@
-\# 🛡️ WindowsMaster Native v5.2
-
-
+# 🛡️ WindowsMaster Native v5.2
 
 <p align="center">
-
-&#x20; <b>أداة متكاملة لنظام التشغيل Windows بتصميم Fluent UI لتسهيل الوصول لإعدادات النظام وصيانته.</b>
-
+  <b>A comprehensive Windows utility featuring Fluent UI design for system optimization and quick controls.</b>
 </p>
-
-
 
 <p align="center">
-
-&#x20; <a href="https://github.com/a50826213-hub/WindowsMaster/releases/latest">
-
-&#x20;   <img src="https://img.shields.io/github/v/release/a50826213-hub/WindowsMaster?color=blue\&label=Latest%20Release" alt="Release">
-
-&#x20; </a>
-
-&#x20; <a href="LICENSE">
-
-&#x20;   <img src="https://img.shields.io/github/license/a50826213-hub/WindowsMaster?color=green" alt="License">
-
-&#x20; </a>
-
+  <a href="https://github.com/a50826213-hub/Windows-Master-v5.2/releases/latest">
+    <img src="https://img.shields.io/github/v/release/a50826213-hub/Windows-Master-v5.2?color=blue&label=Latest%20Release" alt="Release">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/a50826213-hub/Windows-Master-v5.2?color=green" alt="License">
+  </a>
 </p>
 
+---
 
+## 🌟 Key Features
 
-\---
+* 📊 **Live Resource Monitoring:** Real-time hardware usage monitoring (CPU, RAM, GPU).
+* ⚙️ **Quick System Controls:** Instant access to Windows Control Panel and hidden settings.
+* 🛠️ **System Maintenance Tools:** One-click tools to repair and clean system files.
+* 🎨 **Modern Fluent UI:** Native Windows 11 design language integration.
 
+---
 
+## 📥 Installation & Setup
 
-\## 🌟 المميزات الرئيسية
+1. Go to the [Releases Page](https://github.com/a50826213-hub/Windows-Master-v5.2/releases).
+2. Download `WindowsMaster_v5.2_Setup.exe`.
+3. Run the installer and follow the setup wizard.
 
+> **Note:** If **Windows SmartScreen** appears, click **More info** then **Run anyway**.
 
+---
 
-\* 📊 \*\*مراقبة الموارد:\*\* قراءة حية ومباشرة لموارد الجهاز (CPU, RAM, GPU).
+## 💻 System Requirements
 
-\* ⚙️ \*\*اختصارات النظام:\*\* الوصول السريع للوحة التحكم وإعدادات الويندوز المخفية.
+* **OS:** Windows 10 / Windows 11 (64-bit)
+* **Framework:** .NET Framework 4.8 or later
 
-\* 🛠️ \*\*أدوات الصيانة:\*\* أدوات إصلاح وتنظيف ملفات النظام بضغطة زر واحدة.
+---
 
-\* 🎨 \*\*واجهة مدرن:\*\* تصميم عصري متوافق مع Fluent UI الخاص بـ Windows 11.
+<details>
+<summary><b>💬 قراءة الوصف باللغة العربية (Arabic Description)</b></summary>
 
+<div dir="rtl">
 
+### أداة WindowsMaster Native v5.2
 
-\---
+برنامج متكامل لنظام التشغيل Windows بتصميم Fluent UI لتسهيل الوصول لإعدادات النظام وصيانته.
 
+* **مراقبة الموارد:** قراءة حية لموارد الجهاز (CPU, RAM, GPU).
+* **اختصارات النظام:** الوصول السريع لوحة التحكم وإعدادات الويندوز.
+* **أدوات الصيانة:** إصلاح وتنظيف ملفات النظام بضغطة زر.
 
+</div>
+</details>
 
-\## 📥 التحميل والتثبيت
+---
 
+## 👤 Developer
 
-
-1\. اذهب إلى صفحة \[Releases](https://github.com/a50826213-hub/WindowsMaster/releases).
-
-2\. قم بتحميل ملف `WindowsMaster\_v5.2\_Setup.exe`.
-
-3\. قم بتشغيل تثبيت البرنامج واتبع الخطوات.
-
-
-
-> \*\*ملاحظة:\*\* في حال ظهور شاشة \*\*Windows SmartScreen\*\*، اضغط على \*\*More info\*\* ثم \*\*Run anyway\*\*.
-
-
-
-\---
-
-
-
-\## 💻 متطلبات التشغيل
-
-
-
-\* \*\*نظام التشغيل:\*\* Windows 10 / Windows 11 (64-bit)
-
-\* \*\*البيئة:\*\* .NET Framework 4.8 أو أحدث
-
-
-
-\---
-
-
-
-\## 👤 المطور
-
-
-
-\* \*\*إعداد وتطوير:\*\* Anas Mohamed (Anas Tech)
-
+* **Developed by:** Anas Mohamed (Anas Tech)
