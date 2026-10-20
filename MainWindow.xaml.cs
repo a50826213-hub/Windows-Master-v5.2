@@ -19,7 +19,7 @@ namespace WindowsMaster;
 
 public partial class MainWindow : Window
 {
-    private const string OfficialUrl = "https://anas-mohamed-tech.surge.sh";
+    private const string OfficialUrl = "https://a50826213-hub.github.io/anas-mohamed-tech";
 
     private bool _dark = true;
 
